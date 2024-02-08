@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs/gradle-simple-2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs/gradle-simple-2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/libs/gradle-simple-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
